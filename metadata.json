@@ -1,0 +1,10 @@
+{
+  "name": "Luisito Comunica",
+  "description": "Aplicación sencilla para consultar el pronóstico del clima actual, por horas y a 7 días en cualquier ciudad.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
